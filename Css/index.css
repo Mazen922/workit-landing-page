@@ -34,9 +34,6 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
-}
-.hero-section nav {
     height: 67px;
     width: 100%;
 }
@@ -65,7 +62,7 @@ body {
 /* Header Section */
 
 .button  {
-    background-color: none;
+    background-color: transparent;
     background-color: var(--green);
     color: var(--purple-900);
     font-weight: bold;
@@ -80,7 +77,6 @@ body {
     color: var(--green);
     background-color: var(--purple-900);
     border: 1px solid var(--green);
-    color: var(--green);
 }
 .header-section {
     display: flex;
@@ -119,9 +115,6 @@ header span {
     display: grid; 
     justify-content: center;    
     text-align: center;
-}
-.main div {
-    display: grid;
 }
 .order-list {
     display: grid;
@@ -174,8 +167,8 @@ header span {
     font-family: var(--second-font);
 }
 .box p {
-    font-size: 16px;
     padding: 8px;
+    font-size: 16px;
     line-height: 1.8;
     text-align: center;
 }
