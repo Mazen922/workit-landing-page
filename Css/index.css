@@ -274,7 +274,7 @@ body {
     height: 25px;
     }
     .container .hero-section:after {
-        top: 43%;
+        top: 59%;
     }
 .header-section {
     gap: 40px;
@@ -294,8 +294,8 @@ body {
 
 }
 .image-section img {
-    width: 320px;
-    height: 184px;
+            width: 300px;
+        height: 180px;
 }
 /* main section */
 .main {
