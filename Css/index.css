@@ -274,7 +274,7 @@ body {
     height: 25px;
     }
     .container .hero-section:after {
-        top: 59%;
+        top: 78.5%;
     }
 .header-section {
     gap: 40px;
@@ -305,6 +305,7 @@ body {
 .main .order-list {
     display: grid;
     gap: 24px;
+    margin-top: 2rem;
 }
 .main div {
     display: grid;
