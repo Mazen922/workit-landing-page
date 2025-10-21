@@ -274,7 +274,7 @@ body {
     height: 25px;
     }
     .container .hero-section:after {
-        top: 78.5%;
+        top: 68.5%; 
     }
 .header-section {
     gap: 40px;
