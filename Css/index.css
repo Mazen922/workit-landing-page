@@ -258,7 +258,7 @@ body {
     overflow: hidden;
 }    
 /* Small-Screens Media Query  */
-@media (max-width : 767px) {
+@media (min-width : 375px) {
     .container {
         width: 100%;
     }
